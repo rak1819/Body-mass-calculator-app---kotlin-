@@ -8,14 +8,14 @@ ________________________________________________________________________________
 
 according to google : the bmi calculated  on the basis of
 
-Underweight = <18.5
-Normal weight = 18.5–24.9
-Overweight = 25–29.9
+Underweight = <18.5||
+Normal weight = 18.5–24.9||
+Overweight = 25–29.9||
 Obesity = BMI of 30 or greater
 
 
 _______________________________________________________________________________________
-interface of app
+interface of app to check the body mass with weight and height
 
 
 <img src="https://github.com/rak1819/Body-mass-calculator-app---kotlin-/assets/136351170/10f22605-15ea-433b-bb68-4a2704572a06" width="200" height="400" />
@@ -24,8 +24,8 @@ interface of app
 
 
 
-to check the body mass with weight and height
 
+_______________________________________________________________________________________
 
 toasting the mesages in the app when height and weight not mentioned)
 
@@ -33,7 +33,7 @@ toasting the mesages in the app when height and weight not mentioned)
 
 <img src="https://github.com/rak1819/Body-mass-calculator-app---kotlin-/assets/136351170/80e4c40a-f531-4955-980f-431bc83ae696" width="200" height="400" />
 
-
+_______________________________________________________________________________________
 
 when the body mass is underweight
 
@@ -43,7 +43,7 @@ when the body mass is underweight
 <img src="https://github.com/rak1819/Body-mass-calculator-app---kotlin-/assets/136351170/19b08201-aead-4bef-b8bd-5c2a9bb67fe7" width="200" height="400" />
 
 
-
+_______________________________________________________________________________________
 
 when the body mass is healthy
 
@@ -51,13 +51,13 @@ when the body mass is healthy
 
 <img src="https://github.com/rak1819/Body-mass-calculator-app---kotlin-/assets/136351170/6b12fba1-1125-4f4e-8c04-4aad933ad96a" width="200" height="400" />
 
-
+_______________________________________________________________________________________
 when the body mass is overweight
 
 
 <img src="https://github.com/rak1819/Body-mass-calculator-app---kotlin-/assets/136351170/89bfee87-f7a5-480b-8e49-5891f9e82146" width="200" height="400" />
 
-
+_______________________________________________________________________________________
 when the body mass is obese
 
 
