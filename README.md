@@ -1,5 +1,20 @@
 # Body-mass-calculator-app---kotlin-
-bmi calculator
+Body Mass Index(BMI) calculator
+-------------------------------
+what is body mass index ?
+
+Body Mass Index (BMI) is a person’s weight in kilograms divided by the square of height in meters. A high BMI can indicate high body fatness. BMI screens for weight categories that may lead to health problems, but it does not diagnose the body fatness or health of an individual.
+_____________________________________________________________________________________
+
+according to google : the bmi calculated  on the basis of
+
+Underweight = <18.5
+Normal weight = 18.5–24.9
+Overweight = 25–29.9
+Obesity = BMI of 30 or greater
+
+
+_______________________________________________________________________________________
 interface of app
 
 
