@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BMI calculator</string>
+    <string name="enter_the_name">enter the name</string>
+    <string name="button">Button</string>
+    <string name="welcome_to_android">welcome to android</string>
+    <string name="offers">offers</string>
+    <string name="name">Name</string>
+    <string name="weight">Weight</string>
+    <string name="_0">0</string>
+    <string name="kg">Kg</string>
+    <string name="cm">Cm</string>
+    <string name="height">Height</string>
+    <string name="calculate">calculate</string>
+    <string name="_24_5">24.5</string>
+    <string name="your_are_healthy">your are healthy</string>
+    <string name="normal_range_18_5_24_9">normal range 18.5 -24.9</string>
+</resources>
