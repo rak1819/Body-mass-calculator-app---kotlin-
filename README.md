@@ -12,7 +12,7 @@ interface of app
 to check the body mass with weight and height
 
 
-toasting the mesages in the app when height and weight no mentioned)
+toasting the mesages in the app when height and weight not mentioned)
 
 
 
