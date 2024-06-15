@@ -14,6 +14,7 @@ Overweight = 25–29.9||
 Obesity = BMI of 30 or greater
 
 
+
 _______________________________________________________________________________________
 interface of app to check the body mass with weight and height
 
@@ -64,7 +65,12 @@ when the body mass is obese
 
 <img src="https://github.com/rak1819/Body-mass-calculator-app---kotlin-/assets/136351170/a2373eae-868a-4674-964f-37055b16794a" width="200" height="400" />
 
-
+________________________________________________________________________________________
+for every different masses i used different values and colors(Underweight ,
+Normal weight ,
+Overweight ,
+Obesity)
+_______________________________________________________________________________________
 
 
 
